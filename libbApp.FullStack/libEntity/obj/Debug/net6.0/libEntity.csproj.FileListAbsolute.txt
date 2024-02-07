@@ -1,0 +1,11 @@
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\bin\Debug\net6.0\libEntity.deps.json
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\bin\Debug\net6.0\libEntity.dll
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\bin\Debug\net6.0\libEntity.pdb
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\obj\Debug\net6.0\libEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\obj\Debug\net6.0\libEntity.AssemblyInfoInputs.cache
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\obj\Debug\net6.0\libEntity.AssemblyInfo.cs
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\obj\Debug\net6.0\libEntity.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\obj\Debug\net6.0\libEntity.dll
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\obj\Debug\net6.0\refint\libEntity.dll
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\obj\Debug\net6.0\libEntity.pdb
+C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libEntity\obj\Debug\net6.0\ref\libEntity.dll

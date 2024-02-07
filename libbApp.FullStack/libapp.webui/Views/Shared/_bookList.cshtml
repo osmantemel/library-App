@@ -1,0 +1,30 @@
+﻿@using libapp.webui
+@using libapp.webui.Models
+
+
+<div class="container mt-4 mb-5">
+    <h1>Kitaplar</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Bulundugu Yer</th>
+                <th>Kitap Adi</th>
+                <th>Yazar Adi</th>
+                <th>Alinma Tarihi</th>
+                <th>Verilme Tarihi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in ViewBag.books)
+            {
+                <tr>
+                    <td>@book.konum</td>
+                    <td>@book.kitapAdi</td>
+                    <td>@book.YazarAdi</td>
+                    <td>2023-10-01</td>
+                    <td>2023-10-15</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

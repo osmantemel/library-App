@@ -1,0 +1,45 @@
+﻿<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<div class="container mt-5 mb-5">
+    <h1 class="text-center">Kitap Listesi</h1>
+    <div class="input-group mb-3">
+        <form class="form-inline ">
+            <input name="q" class="form-control" type="text" placeholder="Kitap Ara" aria-label="Search">
+            <button class="btn btn-primary" type="submit">Ara</button>
+        </form>
+
+    </div>
+    <table class="table mb-5">
+        <thead>
+            <tr>
+                <th>Kitap ID</th>
+                <th>Bulundugu Yer</th>
+                <th>Kitap Adi</th>
+                <th>Yazar Adi</th>
+                <th>Yapılacak işlem</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in ViewBag.books)
+            {
+                <tr>
+                    <td>@book.BookId</td>
+                    <td>@book.konum</td>
+                    <td>@book.kitapAdi</td>
+                    <td>@book.YazarAdi</td>
+                    <td>
+                        <form method="post" action="~/admin/delete">
+                            <input type="hidden" name="BookId" value="@book.BookId">
+                            <button class="btn btn-danger btn-sm" type="submit">Delete</button>
+                        </form>
+                        <form method="get" action="~/admin/Update">
+                            <input type="hidden" name="BookId" value="@book.BookId">
+                            <button class="btn btn-danger btn-sm" type="submit">Update</button>
+                        </form>
+                        
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

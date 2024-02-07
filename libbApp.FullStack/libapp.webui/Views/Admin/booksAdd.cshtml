@@ -1,0 +1,34 @@
+﻿
+@using libEntity;
+@model books
+
+@await Html.PartialAsync("_navbarAdmin")
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <div class="container mt-5">
+        <h2>Kitap Ekleme Formu</h2>
+    <input type="hidden" name="BookId"  />
+    <form method="post">
+        <div class="form-group">
+            <label for="konum">Konum:</label>
+            <input asp-for="konum" name="konum"  class="form-control" placeholder="konumunu Girin">
+        </div>
+       
+        <div class="form-group">
+            <label for="kitapAdi">Kitap Adı:</label>
+            <input asp-for="kitapAdi" name="kitapAdi" class="form-control" placeholder="Kitap Adını Girin">
+        </div>
+        <div class="form-group">
+            <label for="YazarAdi">Yazar Adı:</label>
+            <input asp-for="YazarAdi" name="yazarAdi" class="form-control" placeholder="Yazar Adını Girin:">
+        </div>
+            <button type="submit" class="btn btn-primary">Ekle</button>
+        </form>
+    </div>
+
+
+
+
+@await Html.PartialAsync("_footer")

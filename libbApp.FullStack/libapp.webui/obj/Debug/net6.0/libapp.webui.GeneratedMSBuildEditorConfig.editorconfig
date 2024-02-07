@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = libapp.webui
+build_property.RootNamespace = libapp.webui
+build_property.ProjectDir = C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libapp.webui\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\OSMAN\Desktop\Kütüphane Uygulaması\libbApp.FullStack\libapp.webui
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Admin/bookEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYm9va0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Admin/bookList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYm9va0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Admin/booksAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYm9va3NBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Admin/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Shared/_adminEditList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9hZG1pbkVkaXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Shared/_bookList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ib29rTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Shared/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Shared/_navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/Shared/_navbarAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uYXZiYXJBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OSMAN/Desktop/Kütüphane Uygulaması/libbApp.FullStack/libapp.webui/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
